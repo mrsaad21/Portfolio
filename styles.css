@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #292929; /* Dark background color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #333; /* Container color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.member {
+    border: 1px solid #555; /* Border color */
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #444; /* Member background color */
+}
+
+.member h2 {
+    margin-top: 0;
+    color: #fff; /* Text color */
+}
+
+.member img {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+}
+
+
+p {
+    color: #ccc; /* Text color */
+}
+h1{
+    text-align: center;
+}
